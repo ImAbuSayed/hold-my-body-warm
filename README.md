@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-my-body-warm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Hold My Body Warm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-body-warm/) |
+| **Get License** | [Official Music Licensing for Hold My Body Warm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-body-warm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4f27a271977b8dcfddf9cc82303db6891ab2fe6b5284a1566f77e5844af5056c` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hold My Body Warm
+
+This log tracks the cryptographic history and versioning for the song **Hold My Body Warm** (hold-my-body-warm).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T22:10:49.028723 | `v1` | `4f27a271977b8dcfddf9cc82303db6891ab2fe6b5284a1566f77e5844af5056c` | `af5ddacc4971b8803f2a435331e832c9719799e5c29d00a4128ed5aaee7c0fda` | `2026-06-05_hold-my-body-warm-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
