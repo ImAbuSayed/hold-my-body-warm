@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-my-body-warm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Hold My Body Warm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-body-warm/) |
+| **Get License** | [Get a Licensing Quote for Hold My Body Warm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-my-body-warm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall across the wooden floor
+> I've never wanted anyone like this before
+> Come closer now, forget the outside storm
+> Just pull me in and hold my body warm
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
